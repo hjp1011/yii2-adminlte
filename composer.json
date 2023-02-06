@@ -1,6 +1,6 @@
 {
     "name": "hjp1011/yii2-adminlte",
-    "description": "YiiFrame based plug-in center, you can install and uninstall plug-ins online",
+    "description": "Adminlte Background Administration framework resource file for yiiframe",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
     "license": "BSD-3-Clause",
