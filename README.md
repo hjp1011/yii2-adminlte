@@ -1,7 +1,6 @@
-YiiFrame plug-in Center
+Yii2 AdminLTE Asset Bundle
 =======================
-YiiFrame based plug-in center, you can install and uninstall plug-ins online
-
+Adminlte Background Administration framework resource file for yiiframe
 Installation
 ------------
 
