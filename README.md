@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist hjp1011/yii2-plugs "*"
+php composer.phar require --prefer-dist hjp1011/yii2-adminlte "*"
 ```
 
 or add
 
 ```
-"hjp1011/yii2-plugs": "*"
+"hjp1011/yii2-adminlte": "*"
 ```
 
 to the require section of your `composer.json` file.
